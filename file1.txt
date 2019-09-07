@@ -1,3 +1,4 @@
 existing content-changed first time
 added to branch1
 updated from web
+updated from CLI
